@@ -23,16 +23,16 @@
 #        break
 
 
-#for i in range(24):
-#    if i == 10:
-#        continue
-#    print(i)
+#for i in range(5):
+ #   if i == 10:
+  #      continue
+   # print(i)
 
-#for i in range(3):
-#    for j in range(3):
-#        print(i, "x", j, "=", i*j)
-#        print(i, "+", j, "=", i+j)
-#        print(i, "-", j, "=", i-j)
+for i in range(3):
+    for j in range(3):
+        print(i, "x", j, "=", i*j)
+        print(i, "+", j, "=", i+j)
+        print(i, "-", j, "=", i-j)
 
 
 #count = 0

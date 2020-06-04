@@ -54,11 +54,17 @@
 # without elif - didn't work.
 exam_mark = int(input("Enter your mark: "))
 
-#if exam_mark >= 86:
-#    print("distinction")
-#if exam_mark >= 65:
-#    print("pass")
-#if exam_mark <=64:
-#    print("fail")
+if exam_mark >= 86:
+    print("distinction")
+elif exam_mark >= 65:
+    print("pass")
+else:   
+    print("fail")
+
+
+if exam_mark =86:
+    print("distintion")
+if 
+
 
 
